@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+body {
+    background-color: #000;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    padding: 100px 0;
+}
+
+#secao_1 {
+    max-height: 860px;
+    background-color: #000;
+    background-image: url(../imagens/imagem-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.background_rosa {
+    background-color: #a922b3be;
+}
+
+.github {
+    color: #000000;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.github:hover {
+    color: #0816da;
+}
+
+footer {
+    padding: 50px;
+}
+
+.secao_5 {
+    height: 600px;
+    padding-top: 150px;
+    background-image: url(../imagens/tb-pode-ser-util.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.borda {
+    border-right: 20px solid black;
+}
+
+.linha {
+    border: 3px solid rgba(128, 128, 128, 0.089);
+}
+
+.botao {
+    color: white;
+}
+
+.botao:hover {
+    color: grey;
+}
+
+.face-e-tt{
+    color: white;
+}
+
+.face-e-tt:hover {
+    color: #155baa;
+}
+
+.insta {
+    color: white;
+}
+
+.insta:hover {
+    color: rgba(255, 102, 0, 0.829);
+}
